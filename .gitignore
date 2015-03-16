@@ -46,5 +46,4 @@ Temporary Items
 
 *.idea
 *node_modules
-*bin
 *.iml
